@@ -7,15 +7,10 @@ import vue_controleur.FenetrePrincipale;
 
 import javax.swing.SwingUtilities;
 
-/**
- *
- * @author frederic
- */
+
 public class Main {
 
-    /**
-     * @param args the command line arguments
-     */
+
     public static void main(String[] args)
     {
 
